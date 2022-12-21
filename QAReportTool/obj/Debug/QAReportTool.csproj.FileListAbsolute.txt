@@ -1,0 +1,15 @@
+C:\Users\gaia\source\repos\QAReportTool\QAReportTool\bin\Debug\QAReportTool.exe.config
+C:\Users\gaia\source\repos\QAReportTool\QAReportTool\bin\Debug\QAReportTool.exe
+C:\Users\gaia\source\repos\QAReportTool\QAReportTool\bin\Debug\QAReportTool.pdb
+C:\Users\gaia\source\repos\QAReportTool\QAReportTool\obj\Debug\QAReportTool.csprojAssemblyReference.cache
+C:\Users\gaia\source\repos\QAReportTool\QAReportTool\obj\Debug\QAReportTool.Properties.Resources.resources
+C:\Users\gaia\source\repos\QAReportTool\QAReportTool\obj\Debug\QAReportTool.csproj.GenerateResource.cache
+C:\Users\gaia\source\repos\QAReportTool\QAReportTool\obj\Debug\QAReportTool.csproj.CoreCompileInputs.cache
+C:\Users\gaia\source\repos\QAReportTool\QAReportTool\obj\Debug\QAReportTool.exe
+C:\Users\gaia\source\repos\QAReportTool\QAReportTool\obj\Debug\QAReportTool.pdb
+C:\Users\gaia\source\repos\QAReportTool\QAReportTool\obj\Debug\QAReportTool.FormCutFresh.resources
+C:\Users\gaia\source\repos\QAReportTool\QAReportTool\obj\Debug\QAReportTool.FormFreshPartsHalal.resources
+C:\Users\gaia\source\repos\QAReportTool\QAReportTool\obj\Debug\QAReportTool.FormFreshPartsNonHalal.resources
+C:\Users\gaia\source\repos\QAReportTool\QAReportTool\obj\Debug\QAReportTool.FormFreshWholeChicken.resources
+C:\Users\gaia\source\repos\QAReportTool\QAReportTool\obj\Debug\QAReportTool.FormFrozenThawed.resources
+C:\Users\gaia\source\repos\QAReportTool\QAReportTool\obj\Debug\QAReportTool.MainForm.resources
